@@ -1,0 +1,33 @@
+id: IC88B9B6D
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-27T10:16:02+00:00'
+last_modified: '2022-06-08T14:01:41.820296+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W21661
+  title: ཕར་ཕྱིན་རྣམ་བཤད་སྙིང་པོའི་རྒྱན
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    A80C:
+      image_group_id: I5788
+      title: ''
+      total_pages: 463
+      order: 1
+      base_file: A80C.txt
+    00C1:
+      image_group_id: I5789
+      title: ''
+      total_pages: 351
+      order: 2
+      base_file: 00C1.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
